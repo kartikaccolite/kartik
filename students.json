@@ -1,0 +1,105 @@
+[{
+        "name": "Dawn of the Planet of the Apes",
+        "image": "http://api.androidhive.info/json/movies/1.jpg",
+        "email": "kartik.keshri@accoliteindia.com",
+        "releaseYear": 2014,
+        "rounds": ["Action", "Drama", "Sci-Fi"]
+    },
+    {
+        "name": "District 9",
+        "image": "http://api.androidhive.info/json/movies/2.jpg",
+        "email": "kartik.keshri@accoliteindia.com",
+        "releaseYear": 2009,
+        "rounds": ["Action", "Sci-Fi", "Thriller"]
+    },
+    {
+        "name": "Transformers: Age of Extinction",
+        "image": "http://api.androidhive.info/json/movies/3.jpg",
+        "email": "kartik.keshri@accoliteindia.com",
+        "releaseYear": 2014,
+        "rounds": ["Action", "Adventure", "Sci-Fi"]
+    },
+    {
+        "name": "X-Men: Days of Future Past",
+        "image": "http://api.androidhive.info/json/movies/4.jpg",
+        "email": "kartik.keshri@accoliteindia.com",
+        "releaseYear": 2014,
+        "rounds": ["Action", "Sci-Fi", "Thriller"]
+    },
+    {
+        "name": "The Machinist",
+        "image": "http://api.androidhive.info/json/movies/5.jpg",
+        "email": "kartik.keshri@accoliteindia.com",
+        "releaseYear": 2004,
+        "rounds": ["Drama", "Thriller"]
+    },
+    {
+        "name": "The Last Samurai",
+        "image": "http://api.androidhive.info/json/movies/6.jpg",
+        "email": "kartik.keshri@accoliteindia.com",
+        "releaseYear": 2003,
+        "rounds": ["Action", "Drama", "History"]
+    },
+    {
+        "name": "The Amazing Spider-Man 2",
+        "image": "http://api.androidhive.info/json/movies/7.jpg",
+        "email": "kartik.keshri@accoliteindia.com",
+        "releaseYear": 2014,
+        "rounds": ["Action", "Adventure", "Fantasy"]
+    },
+    {
+        "name": "Tangled",
+        "image": "http://api.androidhive.info/json/movies/8.jpg",
+        "email": "kartik.keshri@accoliteindia.com",
+        "releaseYear": 2010,
+        "rounds": ["Action", "Drama", "Sci-Fi"]
+    },
+    {
+        "name": "Rush",
+        "image": "http://api.androidhive.info/json/movies/9.jpg",
+        "email": "kartik.keshri@accoliteindia.com",
+        "releaseYear": 2013,
+        "rounds": ["Animation", "Comedy", "Family"]
+    },
+    {
+        "name": "Drag Me to Hell",
+        "image": "http://api.androidhive.info/json/movies/10.jpg",
+        "email": "kartik.keshri@accoliteindia.com",
+        "releaseYear": 2009,
+        "rounds": ["Horror", "Thriller"]
+    },
+    {
+        "name": "Despicable Me 2",
+        "image": "http://api.androidhive.info/json/movies/11.jpg",
+        "email": "kartik.keshri@accoliteindia.com",
+        "releaseYear": 2013,
+        "rounds": ["Animation", "Comedy", "Family"]
+    },
+    {
+        "name": "Kill Bill: Vol. 1",
+        "image": "http://api.androidhive.info/json/movies/12.jpg",
+        "email": "kartik.keshri@accoliteindia.com",
+        "releaseYear": 2003,
+        "rounds": ["Action", "Crime"]
+    },
+    {
+        "name": "A Bug's Life",
+        "image": "http://api.androidhive.info/json/movies/13.jpg",
+        "email": "kartik.keshri@accoliteindia.com",
+        "releaseYear": 1998,
+        "rounds": ["Animation", "Adventure", "Comedy"]
+    },
+    {
+        "name": "Life of Brian",
+        "image": "http://api.androidhive.info/json/movies/14.jpg",
+        "email": "kartik.keshri@accoliteindia.com",
+        "releaseYear": 1972,
+        "rounds": ["Comedy"]
+    },
+    {
+        "name": "How to Train Your Dragon",
+        "image": "http://api.androidhive.info/json/movies/15.jpg",
+        "email": "kartik.keshri@accoliteindia.com",
+        "releaseYear": 2010,
+        "rounds": ["Animation", "Adventure", "Family"]
+    }]
